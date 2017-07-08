@@ -4,4 +4,4 @@ This is a small script I built using tweepy to remove     all followers That you
 ## Requirements
 * [Python 2.x](https://www.python.org/downloads/)
 * [pip](https://pip.pypa.io/en/stable/installing/)
-* twitter module (pip2.7 install twitter)
+* twitter module 
